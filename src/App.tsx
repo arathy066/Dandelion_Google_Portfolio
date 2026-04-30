@@ -20,7 +20,7 @@ import {
   VolumeX
 } from 'lucide-react';
 import profileImg from './images/IMG_7628.JPG';
-import heroVideo from './IMG_0177_1.mp4';
+import heroVideo from '/IMG_0177_1.mp4';
 import { FloatingBackground, TransitionSeed, ScrollSeed, BloomingDandelion } from './components/Dandelion';
 import tootlboxImg from './images/tootlbox.png';
 import careImg from './images/Gemini_Generated_Image_y4txs6y4txs6y4tx.png';
