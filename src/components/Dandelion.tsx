@@ -51,7 +51,7 @@ const DandelionSeedSVG = ({ className, strokeWidth = 0.5 }: { className?: string
   </svg>
 );
 
-import plantMain from '@/Dandelion/Timeline 1_00086400.png';
+import plantMain from '../assets/dandelion/plant_main.png';
 
 const Seed = ({ initialX, initialY, duration, delay, size }: SeedProps) => {
   return (
